@@ -1,0 +1,27 @@
+# Compiled binaries
+flightTool
+flightTool.exe
+*.exe
+*.out
+
+# Object files
+*.o
+*.obj
+
+# Debug / build files
+build/
+bin/
+Debug/
+Release/
+
+# IDE files
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
